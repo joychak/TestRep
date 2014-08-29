@@ -1,0 +1,19 @@
+* master:
+.gitignore
+ThisIsMyPrivateRepo
+develop1.txt
+myinfo.txt
+* develop:
+.gitignore
+ThisIsMyPrivateRepo
+develop1.txt
+develop2.txt
+develop3.txt
+myinfo.txt
+* newfeature:
+.gitignore
+ThisIsmyPrivateRepo
+develop1.txt
+develop2.txt
+myinfo.txt
+newfeature.txt
